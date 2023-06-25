@@ -13,11 +13,7 @@ Source
 ---
 
 ### 📖 상세 내용
-
-![Untitled](WeatherToday%20b0a1c611c9004e848131569df33894b6/Untitled.png)
-
-![Untitled](WeatherToday%20b0a1c611c9004e848131569df33894b6/Untitled%201.png)
-
+<img src="https://github.com/wnsgk8300/WeatherToday/assets/73565566/4285f5cc-8114-4fcf-bb31-cd87538eeaae" width="200" height="350" > <img src="https://github.com/wnsgk8300/WeatherToday/assets/73565566/da57019f-50be-462d-8908-f9b5b059f961" width="200" height="350" >
 ---
 
 ## 📱주요 기능
