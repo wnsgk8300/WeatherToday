@@ -1,7 +1,9 @@
 # WeatherToday
 
 사용 Skills & Libraries: RxCocoa, RxSwift, Snapkit, Swift, iOS
+
 팀 구성: 1인
+
 한 줄 소개: 위치 기반으로 현재 날씨와 예보를 알 수 있는 앱
 
 ---
